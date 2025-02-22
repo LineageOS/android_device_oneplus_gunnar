@@ -9,6 +9,9 @@ include device/oneplus/sm6375-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/oneplus/gunnar
 
+# Audio
+AUDIO_FEATURE_ENABLED_EXT_AMPLIFIER := true
+
 # Fingerprint
 TARGET_SURFACEFLINGER_UDFPS_LIB := //hardware/oplus:libudfps_extension.oplus
 
