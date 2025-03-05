@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d068040c_4077ce26",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18745
+      },
+      "writtenOn": "2025-03-05T05:28:30Z",
+      "side": 1,
+      "message": "Still needs sm6375 kernel change",
+      "revId": "7ccf310d113f6c4f2e5d32315a8d45023efb0be3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
