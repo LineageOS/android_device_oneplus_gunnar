@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "303272c0_7bd518a6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18745
+      },
+      "writtenOn": "2025-03-11T00:52:10Z",
+      "side": 1,
+      "message": "96% in a dark room of \u003c 10 lux",
+      "revId": "5ce19d2c90886fa65e2dacbe82c7eadc9bdaaab7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
