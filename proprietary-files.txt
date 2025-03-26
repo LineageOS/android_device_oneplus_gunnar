@@ -831,6 +831,9 @@ vendor/firmware/ipa_fws.b04
 vendor/firmware/ipa_fws.elf
 vendor/firmware/ipa_fws.mdt
 
+# NFC
+odm/etc/nfc/libnfc-nxp_RF.conf_21296:vendor/libnfc-nxp_RF.conf
+
 # Perf
 odm/lib/vendor.oplus.hardware.performance@1.0.so
 odm/lib64/vendor.oplus.hardware.performance@1.0.so
