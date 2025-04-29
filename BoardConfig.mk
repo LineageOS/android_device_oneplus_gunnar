@@ -12,9 +12,6 @@ DEVICE_PATH := device/oneplus/gunnar
 # Audio
 AUDIO_FEATURE_ENABLED_EXT_AMPLIFIER := true
 
-# Fingerprint
-TARGET_SURFACEFLINGER_UDFPS_LIB := //hardware/oplus:libudfps_extension.oplus
-
 # Kernel
 BOARD_ONEPLUS_DYNAMIC_PARTITIONS_SIZE := 5591007232
 BOARD_SUPER_PARTITION_SIZE = 11190403072
