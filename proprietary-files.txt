@@ -852,6 +852,9 @@ odm/etc/nfc/libnfc-nxp_RF.conf_21296:vendor/libnfc-nxp_RF.conf
 odm/lib/vendor.oplus.hardware.performance@1.0.so
 odm/lib64/vendor.oplus.hardware.performance@1.0.so
 
+# OPLUS Log Core - from CPH2467_15.0.0.1910(EX01)
+odm/lib64/libolc_vnd.so|7ec00a916bb04dcc1b2b0d13344620a812104598
+
 # Sensors
 odm/etc/sensor/config/alsps.json
 odm/etc/sensor/config/holi_ak991x_0.json
