@@ -16,6 +16,24 @@
       "message": "Why?",
       "revId": "358c4be1070d8d0940e7f79b2c24a83e186c742f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "54e2ce2e_9bd670b4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2026-10-01T16:24:18Z",
+      "side": 1,
+      "message": "https://review.lineageos.org/q/topic:%22oplus-face-unlock%22",
+      "parentUuid": "99e88960_44fd14f5",
+      "revId": "358c4be1070d8d0940e7f79b2c24a83e186c742f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
